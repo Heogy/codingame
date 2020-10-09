@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c35ce0b7-e2d1-479e-aaf8-946a8dd0e97a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1ZaYsUaPRECDmG2Q4qfBSuRlxSP" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ocean-of-code" />
+      <recent name="$PROJECT_DIR$/retro-game" />
+      <recent name="$PROJECT_DIR$/1d-spreadshit" />
+      <recent name="$PROJECT_DIR$/rpsls" />
+      <recent name="$PROJECT_DIR$/pac" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.Test_fight3 in pac2_test.go (1)">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="codingame" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="codingame" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_fight3 in pac2_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="codingame" />
+      <working_directory value="$PROJECT_DIR$/pac" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/pac/pac2_test.go" />
+      <pattern value="^Test_fight3$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_fight3 in pac2_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="codingame" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/pac2_test.go" />
+      <pattern value="^Test_fight3$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_randInt in main_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="codingame" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/main_test.go" />
+      <pattern value="^Test_randInt$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.Test_fight3 in pac2_test.go (1)" />
+        <item itemvalue="Go Build.go build test.go" />
+        <item itemvalue="Go Test.Test_fight3 in pac2_test.go" />
+        <item itemvalue="Go Test.Test_randInt in main_test.go" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2565" y="184" width="619" height="710" key="#Test_fight3_in_pac2_test.go_(1)" timestamp="1589062051938">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2565" y="184" width="619" height="710" key="#Test_fight3_in_pac2_test.go_(1)/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589062051938" />
+    <state x="2643" y="251" width="464" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1589055171394">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2643" y="251" width="464" height="575" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589055171394" />
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585554430711">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1585554430711" />
+    <state width="1874" height="185" key="GridCell.Tab.0.bottom" timestamp="1589064138522">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="179" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1588894586235" />
+    <state width="1874" height="185" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589064138522" />
+    <state width="1874" height="185" key="GridCell.Tab.0.center" timestamp="1589064138522">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="179" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1588894586235" />
+    <state width="1874" height="185" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589064138522" />
+    <state width="1874" height="185" key="GridCell.Tab.0.left" timestamp="1589064138522">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="179" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1588894586235" />
+    <state width="1874" height="185" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589064138522" />
+    <state width="1874" height="185" key="GridCell.Tab.0.right" timestamp="1589064138522">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="179" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1588894586235" />
+    <state width="1874" height="185" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589064138522" />
+    <state x="2651" y="248" width="448" height="581" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1585080823563">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2651" y="248" width="448" height="581" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585080823563" />
+    <state x="2544" y="136" width="662" height="806" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589055974465">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="136" width="662" height="806" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589055974465" />
+    <state x="2625" y="158" width="500" height="761" key="refactoring.ChangeSignatureDialog" timestamp="1589063480992">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2625" y="158" width="500" height="761" key="refactoring.ChangeSignatureDialog/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589063480992" />
+    <state x="2543" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1589057514575">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="237" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1589057514575" />
+  </component>
+</project>
